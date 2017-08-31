@@ -3,7 +3,7 @@ Teste Cafundó - Whack The Mole Game
 
 Jogo desenvolvido por Henrique de Lima.
 
-O tempo correrrá e você deverá acertar as marmotas para aumentar seu tempo e continuar jogando.
+O tempo correrá e você deve acertar as marmotas para aumentar seu tempo e continuar jogando.
 A cada 10 marmotas atingidas, 15 segundos são adicionados ao seu tempo total.
 
 Se o jogador errar uma marmota durante a sequência, deverá iniciar do 0 e atingir 10 marmotas novamente para assim ganhar o bônus de tempo.
